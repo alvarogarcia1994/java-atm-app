@@ -1,9 +1,13 @@
 ## Cajero Automático - Java ATM App / ATM Cashier with Java
 ## ES
-- Simulación de un cajero automático desarrollada en Java como proyecto de final de formación. Esta aplicación permite realizar operaciones básicas de un cajero como: ingresar, retirar, y consultar saldo. Asimismo, permite crear, modificar y eliminar cuentas de usuarios.
+- Simulación de un cajero automático desarrollada en Java como proyecto de final de formación.
+- Esta aplicación permite realizar operaciones básicas de un cajero como: ingresar, retirar, y consultar saldo.
+- Asimismo, permite crear, modificar y eliminar cuentas de usuarios.
 
 ## EN
-- Simultaion of an ATM deveolped with Java as a final project of end of the course. This application allows to the user make basic operations of an ATM as: transfer, withdraw and check budget. As well as it allows to create, modify and delete user accounts.
+- Simultaion of an ATM deveolped with Java as a final project of end of the course. ç
+- This application allows to the user make basic operations of an ATM as: transfer, withdraw and check budget.
+- As well as it allows to create, modify and delete user accounts.
 
 # Características - Features
 # ES
