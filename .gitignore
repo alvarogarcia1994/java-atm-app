@@ -1,0 +1,30 @@
+# Archivos de clase
+*.class
+
+#Archivo de BBDD defectuoso
+atm.sql
+
+# Carpeta de compilación
+build/
+target/
+
+# Archivos de logs
+*.log
+*.txt
+*.lck
+/logs/
+/*.log
+
+# Directorios de caché
+.idea/
+.gradle/
+
+# Archivos de dependencia temporales
+*.tmp
+*.bak
+*.swp
+
+# Otros archivos o carpetas que no quieras trackear
+*.iml
+.DS_Store
+*.cache
