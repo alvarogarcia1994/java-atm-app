@@ -28,3 +28,9 @@ target/
 *.iml
 .DS_Store
 *.cache
+
+# Ignorar archivos de node.js si existen
+node_modules/
+*.js
+*.json
+*.html
