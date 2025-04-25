@@ -5,7 +5,7 @@
 - Asimismo, permite crear, modificar y eliminar cuentas de usuarios.
 
 ## EN
-- Simultaion of an ATM deveolped with Java as a final project of end of the course.
+- Simulation of an ATM deveolped with Java as a final project of end of the course.
 - This application allows to the user make basic operations of an ATM as: transfer, withdraw and check budget.
 - As well as it allows to create, modify and delete user accounts.
 
